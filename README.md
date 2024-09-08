@@ -26,7 +26,9 @@ I'm Jovelino Veloso
 </div>
 
 <!--
-Usei o site para inserir a figuras: https://emojipedia.org/
-Usei o site para inserir Status: https://github.com/anuraghazra/github-readme-stats#themes 
-Usei o site para inserir redes sociais e contato: https://dev.to/envoy_/150-badges-for-github-pnk
+- O que eu usei para fazer esse perfil:
+.HTML
+.Usei o site para inserir a figuras: https://emojipedia.org/
+.Usei o site para inserir Status: https://github.com/anuraghazra/github-readme-stats#themes 
+.Usei o site para inserir redes sociais e contato: https://dev.to/envoy_/150-badges-for-github-pnk
 -->
