@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 I'm Jovelino Veloso
 
@@ -8,8 +8,9 @@ I'm Jovelino Veloso
 
 
 <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jovelinoveloso&show_icons=true&theme=tokyonight"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovelinoveloso&layout=compact&theme=tokyonight"/>
+   <a href="https://github.com/jovelinoveloso">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jovelinoveloso&show_icons=true&theme=dark"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovelinoveloso&layout=compact&theme=dark"/>
 </div>  
 
 
@@ -17,12 +18,12 @@ I'm Jovelino Veloso
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovelinordveloso/)
 
-<!--
-### Technologies and Tools I use:
 
+<!-- tirar depois que tiver tecnologias 
+### Technologies and Tools I use:
 <div>
-    <img align="center" alt="jovelino-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  
+   <div style="display: inline_block"><br>
+      <img align="center" alt="jovelino-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>  
 </div>
 
 <!--
@@ -32,4 +33,5 @@ I'm Jovelino Veloso
 .Figuras: https://emojipedia.org/
 .Status: https://github.com/anuraghazra/github-readme-stats#themes 
 .Redes sociais e contato: https://dev.to/envoy_/150-badges-for-github-pnk
+.Tecnologias: https://devicon.dev/
 -->
